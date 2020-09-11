@@ -12,6 +12,13 @@
 
 > Hobbies
 
-#### No meu tempo livre gosto de jogar CS:GO, (atualmente na patente AK-1), assistir séries entre outras coisas
+#### No meu tempo livre gosto de jogar CS:GO, (atualmente na patente AK-1), assistir séries entre outras coisa
 
-> ## Meu Discord: haze#0002
+
+> # Status
+
+<p align = "center">
+ <a href="https://github.com/gbrasil3g/">
+ <img src = "https://github-readme-stats.vercel.app/api?username=gbrasil3g&show_icons=true&theme=chartreuse-dark&line_height=27">
+ </a>
+ </p>
