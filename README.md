@@ -4,7 +4,7 @@
 
 > Aprendendo agora:
 
-#### JavaScript, ReactJS, HTML5 e CSS3
+#### JavaScript, HTML5 e CSS3
 
 > Tenho interesse no futuro:
 
