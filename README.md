@@ -21,7 +21,7 @@
 
 **Interesses**
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007FFF)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=41B883)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass&logoColor=cd6799)
 
 **Atualmente trabalhando em**
