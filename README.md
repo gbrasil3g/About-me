@@ -21,7 +21,7 @@
 
 **Atualmente trabalhando em**
 
-[Discord Bot - Axel](https://github.com/gbrasil3g/)
+![Discord Bot - Axel](https://img.shields.io/badge/-Axel-000000?style=flat&logo=discord&logoColor=white)
 
 <details>
       <summary>Estatísticas.</summary>
