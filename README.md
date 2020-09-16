@@ -19,15 +19,16 @@
 
 > # Status
 
+<details>
+      <summary>Estatísticas.</summary>
+  <p align=center>
+    <a href="https://github.com/peterkruse">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbrasil3g&show_icons=true&theme=dark&line_height=27" alt="Guilherme's Statistics." />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrasil3g&layout=demo&theme=dark" alt="Peter's Statistics." />
+    </a>
+  </p>
+</details>
 
-
-
-<p align = "center">
- <a href="https://github.com/gbrasil3g/">
-  <img src = "https://github-readme-stats.vercel.app/api?username=gbrasil3g&show_icons=true&theme=dark&line_height=27">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gbrasil3g&layout=demo&theme=dark">
- </a>
- </p>
  
  <p align = "center">
  <a href="https://github.com/gbrasil3g/"> 
