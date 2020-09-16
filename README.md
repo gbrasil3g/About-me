@@ -41,9 +41,12 @@
 <details>
       <summary>Contato.</summary>
   <p align=center>
-    <a href="https://github.com/gbrasil3g">Github</a>
+    <a href="https://github.com/gbrasil3g">
+        Github - gbrasil3g
+      </a>
     <br>
-    <a href="https://discord.com">Discord</a>
+    <a href="https://discord.com">
+       Discord - haze#0002</a>
   </p>
 </details>
 
