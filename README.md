@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbrasil3g"> </p>
+
 # About-me
 
 #### Olá, meu nome é Guilherme, tenho 14 anos e programo faz aproximadamente 8 meses!
