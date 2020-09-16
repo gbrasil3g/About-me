@@ -1,30 +1,34 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbrasil3g"> </p>
+###  👋
+<h1 align=center>⚡Hello World⚡</h1>
 
-# About-me
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=gbrasil3g" alt="akshit-wtf" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100,000%20lines%20of%20code-yellow" alt="Lines of code" />
+    <img src="https://img.shields.io/github/followers/gbrasil3g?label=Follow&style=social" alt="github followers" />
+</p>
 
-#### Olá, meu nome é Guilherme, tenho 14 anos e programo faz aproximadamente 8 meses!
+**Linguagens**
 
-> Aprendendo agora:
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
-#### JavaScript, HTML5 e CSS3
+**Tecnologias**
 
-> Tenho interesse no futuro:
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 
-#### TypescriptReact & Styled-Components
+**Atualmente trabalhando em**
 
-> Hobbies
-
-#### No meu tempo livre gosto de jogar CS:GO, (atualmente na patente AK-1), assistir séries entre outras coisa
-
-
-> # Status
+[Discord Bot - Axel](https://github.com/gbrasil3g/)
 
 <details>
       <summary>Estatísticas.</summary>
   <p align=center>
-    <a href="https://github.com/peterkruse">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbrasil3g&show_icons=true&theme=dark&line_height=27" alt="Guilherme's Statistics." />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrasil3g&layout=demo&theme=dark" alt="Peter's Statistics." />
+    <a href="https://github.com/gbrasil3g">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbrasil3g&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Guilherme's Statistics." />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrasil3g&show_icons=true&show_icons=true&title_color=fff&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Peter's Statistics." />
     </a>
   </p>
 </details>
