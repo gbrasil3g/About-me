@@ -33,6 +33,15 @@
   </p>
 </details>
 
+<details>
+      <summary>Contato.</summary>
+  <p align=center>
+    <a href="https://github.com/gbrasil3g">Github</a>
+    <br>
+    <a href="https://discord.com">Discord</a>
+  </p>
+</details>
+
  
  <p align = "center">
  <a href="https://github.com/gbrasil3g/"> 
