@@ -47,7 +47,7 @@
       </a>
     <br>
     <a href="https://discord.com">
-       Discord - haze2k#0002</a>
+       Discord - GB#0007</a>
   </p>
 </details>
 
