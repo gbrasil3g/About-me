@@ -7,6 +7,20 @@
     <img src="https://img.shields.io/github/followers/gbrasil3g?label=Follow&style=social" alt="github followers" />
 </p>
 
+_Olá, sou o Guilherme!_
+
+_Atualmente tenho 14 anos e estou estudando programação por meio da Rocketseat!_
+
+**Principais tecnologias que estou estudando:** _ReactJS e TypeScript_
+
+**Já tenho conhecimento em:** _HTML5, CSS3 e um pouco de JavaScript_
+
+_Um dia desejo ser um Front-end Developer :)_
+
+_Espero em breve trabalhar nessa área de programação!_
+
+_Obrigado por ler_ <3
+
 **Linguagens**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
