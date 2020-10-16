@@ -25,10 +25,6 @@
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass&logoColor=cd6799)
 ![TypeScript](https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript&logoColor=007acc)
 
-**Atualmente trabalhando em**
-
-[Discord Bot - Axel](https://github.com/gbrasil3g)
-
 <details>
       <summary>Estatísticas.</summary>
   <p align=center>
