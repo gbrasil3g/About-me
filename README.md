@@ -21,22 +21,20 @@ _Espero em breve trabalhar nessa área de programação!_
 
 _Obrigado por ler_ <3
 
-**Linguagens**
+**Tecnologias e Linguagens**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-
-**Tecnologias**
-
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3) <br>
+![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=react&logoColor=61DBFB)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF) <br>
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass&logoColor=cd6799)
 
 **Interesses**
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=41B883)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass&logoColor=cd6799)
 ![TypeScript](https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript&logoColor=007acc)
 
 <details>
@@ -48,19 +46,6 @@ _Obrigado por ler_ <3
     </a>
   </p>
 </details>
-
-<details>
-      <summary>Contato.</summary>
-  <p align=center>
-    <a href="https://github.com/gbrasil3g">
-        Github - gbrasil3g
-      </a>
-    <br>
-    <a href="https://discord.com">
-       Discord - GB#0007</a>
-  </p>
-</details>
-
  
  <p align = "center">
  <a href="https://github.com/gbrasil3g/"> 
