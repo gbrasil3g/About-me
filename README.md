@@ -34,7 +34,6 @@ _Obrigado por ler_ <3
 
 **Interesses**
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=41B883)
 ![TypeScript](https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript&logoColor=007acc)
 
 <details>
