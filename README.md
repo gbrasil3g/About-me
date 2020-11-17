@@ -30,7 +30,7 @@ _Obrigado por ler_ <3
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF) <br>
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass&logoColor=cd6799)
+![Styled-Components](https://img.shields.io/badge/-StyledComponents-000000?style=for-the-badge&logo=styled-components&logoColor=deepskyblue)
 
 **Interesses**
 
