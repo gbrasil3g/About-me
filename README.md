@@ -35,6 +35,7 @@ _Obrigado por ler_ <3
 **Interesses**
 
 ![TypeScript](https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript&logoColor=007acc)
+![Electron](https://img.shields.io/badge/-electron-000000?style=for-the-badge&logo=electron&logoColor=cyan)
 
 <details>
       <summary>Estatísticas.</summary>
