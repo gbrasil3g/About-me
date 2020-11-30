@@ -3,7 +3,7 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=gbrasil3g" alt="akshit-wtf" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/gbrasil3g?label=Follow&style=social" alt="github followers" />
+    <img src="https://img.shields.io/github/followers/gbrasil3g?label=Followers&style=social" alt="github followers" />
 </p>
 
 _Olá, sou o Guilherme!_
