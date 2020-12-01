@@ -16,7 +16,7 @@ Hello World
 ```
 
 
-**Tecnologias e Linguagens**
+**Technologies and Languages**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
@@ -27,16 +27,7 @@ Hello World
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Styled-Components](https://img.shields.io/badge/-StyledComponents-000000?style=for-the-badge&logo=styled-components&logoColor=deepskyblue)
 
-**Interesses**
+**Interests**
 
 ![TypeScript](https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript&logoColor=007acc)
 ![Electron](https://img.shields.io/badge/-electron-000000?style=for-the-badge&logo=electron&logoColor=cyan)
-
-<details>
-      <summary>Estatísticas.</summary>
-  <p align=center>
-    <a href="https://github.com/gbrasil3g">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrasil3g&show_icons=true&show_icons=true&title_color=fff&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Peter's Statistics." />
-    </a>
-  </p>
-</details>
