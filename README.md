@@ -1,24 +1,20 @@
-###  👋
-<h1 align=center>⚡Hello World⚡</h1>
-
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=gbrasil3g" alt="akshit-wtf" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/gbrasil3g?label=Followers&style=social" alt="github followers" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gbrasil3g&count_private=true&show_icons=true&theme=radical" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrasil3g&layout=compact&theme=radical" alt="stats" />
 </p>
+    
+<h1> Welcome to my profile! </h1>
+    
+```diff
+Hello World 
 
-_Olá, sou o Guilherme!_
+@@ I'm Guilherme Brasil! @@
++ Living in São Paulo - SP, Brazil.
+- 14 years old.
+! I'm programming student and Front-end developer.
+# In my free time I like to play some games!
+```
 
-_Atualmente tenho 14 anos e estou estudando programação por meio da Rocketseat!_
-
-**Principais tecnologias que estou estudando:** _ReactJS e TypeScript_
-
-**Já tenho conhecimento em:** _HTML5, CSS3 e um pouco de JavaScript_
-
-_Um dia desejo ser um Front-end Developer :)_
-
-_Espero em breve trabalhar nessa área de programação!_
-
-_Obrigado por ler_ <3
 
 **Tecnologias e Linguagens**
 
@@ -40,14 +36,7 @@ _Obrigado por ler_ <3
       <summary>Estatísticas.</summary>
   <p align=center>
     <a href="https://github.com/gbrasil3g">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbrasil3g&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Guilherme's Statistics." />
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrasil3g&show_icons=true&show_icons=true&title_color=fff&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Peter's Statistics." />
     </a>
   </p>
 </details>
- 
- <p align = "center">
- <a href="https://github.com/gbrasil3g/"> 
-  <img src = "https://camo.githubusercontent.com/1236c652f93862299eeebc5c6a7b25b73d2be80c/68747470733a2f2f6170692e616c6578666c69706e6f74652e6465762f6368616c6c656e67653f746578743d4d6164652b796f752b726561642c2b6c6f6c2669636f6e3d3130">
- </a>
- </p>
