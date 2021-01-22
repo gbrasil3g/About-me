@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá, meu nome é Guilherme Brasil, tenho 14 anos e atualmente estou estudando programação.
+  No momento estou focado na parte do Front-end, mas também estudando Back-end aos poucos!
 </p>
 
 <p align="left">
