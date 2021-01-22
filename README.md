@@ -1,33 +1,26 @@
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gbrasil3g&count_private=true&show_icons=true&theme=radical" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrasil3g&layout=compact&theme=radical" alt="stats" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
-    
-<h1> Welcome to my profile! </h1>
-    
-```diff
-Hello World 
 
-@@ I'm Guilherme Brasil! @@
-+ Living in São Paulo - SP, Brazil.
-- 14 years old.
-! I'm programming student and Front-end developer.
-# In my free time I like to play some games!
-```
+<p align="left">
+  🦄 Linguagens: <strong>JavaScript, TypeScript</strong>
+</p>
 
+<p align="left">
+  💼 Ferramentas: <strong>Figma, Visual Studio Code</strong>
+</p>
 
-**Technologies and Languages**
+<p align="left">
+  💌 Caso queira entrar em contato: ⤵️
+</p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3) <br>
-![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=react&logoColor=61DBFB)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF) <br>
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![Styled-Components](https://img.shields.io/badge/-StyledComponents-000000?style=for-the-badge&logo=styled-components&logoColor=deepskyblue)
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=resendebrasilgui@gmail.com" /></a>
 
-**Interests**
-
-![TypeScript](https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript&logoColor=007acc)
-![Electron](https://img.shields.io/badge/-electron-000000?style=for-the-badge&logo=electron&logoColor=cyan)
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=__brasil09__"/></a>
+</p>  
