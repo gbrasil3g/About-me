@@ -24,3 +24,8 @@
   <a href="https://www.instagram.com/__brasil09__/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/__brasil09__/"/></a>
 </p>  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gbrasil3g&theme=dracula" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrasil3g&hide=html&layout=compact&theme=dracula" width="400">
+</p>
