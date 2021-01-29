@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Figma, Visual Studio Code</strong>
+  💼 Ferramentas: <strong>Figma, Visual Studio Code, Git & Github</strong>
 </p>
 
 <p align="left">
