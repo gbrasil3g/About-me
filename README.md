@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:resendebrasilgui@gmail.com" alt="Gmail">
+  <a href="mailto:dev.guilhermebrasil@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=resendebrasilgui@gmail.com" /></a>
 
   <a href="https://www.instagram.com/__brasil09__/" alt="Instagram">
