@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Guilherme Brasil, tenho 14 anos e atualmente estou estudando programação.
+  Olá, meu nome é Guilherme Brasil, tenho 15 anos e atualmente estou estudando programação.
   No momento estou focado na parte do Front-end, mas também estudando Back-end aos poucos!
 </p>
 
